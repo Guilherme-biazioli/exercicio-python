@@ -10,3 +10,6 @@ elif triangulo == 2:
     print("É isóceles!")
 else:
     print("É Escaleno!")
+
+print("--------------------------------------------------------------")
+#fim exercicio 
